@@ -1,2 +1,4 @@
 # Auto_flashing
-main
+main.cpp
+using ATMEGA 128
+
